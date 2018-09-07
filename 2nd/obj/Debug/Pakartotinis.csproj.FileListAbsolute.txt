@@ -1,0 +1,7 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Pakartotinis\Pakartotinis\bin\Debug\Pakartotinis.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Pakartotinis\Pakartotinis\bin\Debug\Pakartotinis.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Pakartotinis\Pakartotinis\bin\Debug\Pakartotinis.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Pakartotinis\Pakartotinis\obj\Debug\Pakartotinis.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Pakartotinis\Pakartotinis\obj\Debug\Pakartotinis.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Pakartotinis\Pakartotinis\obj\Debug\Pakartotinis.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Pakartotinis\Pakartotinis\bin\Debug\grades.txt
