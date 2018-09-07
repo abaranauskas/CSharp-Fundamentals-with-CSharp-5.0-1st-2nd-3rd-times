@@ -1,0 +1,18 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Grades\Grades.Tests\bin\Debug\Grades.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\First C# tutorial\Grades\Grades.Tests\bin\Debug\grades.txt
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 1st, 2nd and 3rd times\C# Fundamentals with C# 5.0 1st time\Grades\Grades.Tests\bin\Debug\grades.txt
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 1st, 2nd and 3rd times\C# Fundamentals with C# 5.0 1st time\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 1st, 2nd and 3rd times\C# Fundamentals with C# 5.0 1st time\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 1st, 2nd and 3rd times\C# Fundamentals with C# 5.0 1st time\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 1st, 2nd and 3rd times\C# Fundamentals with C# 5.0 1st time\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 1st, 2nd and 3rd times\C# Fundamentals with C# 5.0 1st time\Grades\Grades.Tests\bin\Debug\Grades.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 1st, 2nd and 3rd times\C# Fundamentals with C# 5.0 1st time\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 1st, 2nd and 3rd times\C# Fundamentals with C# 5.0 1st time\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 1st, 2nd and 3rd times\C# Fundamentals with C# 5.0 1st time\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
